@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inside{
+    width: 1220px;
+    height: 2457px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.header{
+    width: 1150px;
+    height: 35px;
+
+    display: flex;
+    justify-content: space-around;
+}
+.header_right{
+    width: 500px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    p{
+        font-family: 'Century Gothic';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 14px;
+        text-align: right;
+        color: #AAAAAA;
+        cursor: pointer;
+    }
+}
+.middle{
+    width: 955px;
+    height: 2055px;
+}
+.bottom{
+    width: 955px;
+    height: 230px;
+}

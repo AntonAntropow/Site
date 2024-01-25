@@ -1,0 +1,274 @@
+@import url("https://fonts.googleapis.com/css2?family=Chivo&display=swap");
+.middle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.one {
+  width: 920px;
+  height: 613px;
+  background: url(../img/pic1.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.one p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1px;
+}
+.one p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1px;
+  text-align: center;
+  letter-spacing: 0.206928px;
+}
+
+.two {
+  width: 920px;
+  height: 528px;
+  background: url(../img/pic2.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.two p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1px;
+}
+.two p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1px;
+  text-align: center;
+  letter-spacing: 0.206928px;
+}
+
+.three {
+  width: 442px;
+  height: 442px;
+  background: url(../img/pic3.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.three p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  text-align: center;
+}
+.three p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.13px;
+}
+
+.four {
+  width: 442px;
+  height: 442px;
+  background: url(../img/pic4.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.four p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  text-align: center;
+}
+.four p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.13px;
+}
+
+.five {
+  width: 285px;
+  height: 285px;
+  background: url(../img/pic5.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.five p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+}
+.five p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.13px;
+}
+
+.six {
+  width: 285px;
+  height: 285px;
+  background: url(../img/pic6.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.six p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+}
+.six p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.13px;
+}
+
+.seven {
+  width: 285px;
+  height: 285px;
+  background: url(../img/pic7.png);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.seven p:first-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+}
+.seven p:last-child {
+  color: white;
+  font-family: "Chivo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.13px;
+}
